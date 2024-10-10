@@ -1,2 +1,2 @@
 hey,i am amol kare from iitb.
-this is my trial repo
+this is my trial repo,i am learning github and git.
